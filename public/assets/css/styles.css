@@ -1,0 +1,49 @@
+body{
+	background-color: black;
+	font-family: 'Inconsolata', monospace;
+}
+
+a {
+	color: #fff;
+	font-size: 17px;
+}
+
+.navbar{
+	background-color: pink;
+	border: solid 1px pink;
+	color: #fff;
+}
+
+.navButton {
+	color: black;
+}
+
+.navbar-brand {
+	color: #fff;
+}
+
+.jumbotron{
+	text-align: center;
+    background-color: aqua;
+}
+
+.panel-body {
+	background-color: yellow;
+	color: #fff;
+}
+
+.modal-header{
+	background-color: blue;
+	color: black;
+}
+
+.btn{
+	color: pink;
+	font-size: 15px;
+}
+
+#panelHead{
+	background-color: blue;
+	color: black;
+	font-size: 25px;
+}
