@@ -1,49 +1,65 @@
-body{
+body {
 	background-color: black;
-	font-family: 'Inconsolata', monospace;
+	font-family: "Times New Roman", Times, serif;
 }
 
 a {
-	color: #fff;
-	font-size: 17px;
+	color: #993333;
+	font-size: 20px;
 }
 
-.navbar{
-	background-color: pink;
-	border: solid 1px pink;
-	color: #fff;
+h1 {
+	color: antiquewhite;
 }
 
-.navButton {
-	color: black;
+.navbar {
+	background-color: #993333;
+	border: solid 3px white;
 }
 
 .navbar-brand {
-	color: #fff;
+	/* color: black; */
+	color: antiquewhite;
 }
 
-.jumbotron{
+.jumbotron {
 	text-align: center;
-    background-color: aqua;
+	border: solid 3px white;
+	background-color: #808000;
 }
 
 .panel-body {
-	background-color: yellow;
-	color: #fff;
-}
-
-.modal-header{
-	background-color: blue;
+	background-color: #993333;
 	color: black;
+	border: solid 3px white;
 }
 
-.btn{
-	color: pink;
+p {
+	color: antiquewhite;
+}
+
+a {
+	color: antiquewhite;
+}
+
+.modal-header {
+	background-color: white;
+	color: #993333;
+	border: solid 3px white;
+}
+
+.btn {
+	color: #993333;
 	font-size: 15px;
 }
+.navButton {
+	font-size: 25px;
+	color: antiquewhite;
+}
 
-#panelHead{
-	background-color: blue;
-	color: black;
+#panelHead {
+	background-color: #808000;
+	border: solid 3px white;
+	color:white;
 	font-size: 25px;
 }
